@@ -22,36 +22,3 @@ description: This is the page of "Press"
 7. [A. Song et al., Review of intelligent electromyography controlled artificial hand. Journal of Nanjing University of Information Science & Technology(Natural Science Edition), 2019](http://dx.doi.org/10.13878/j.cnki.jnuist.2019.02.001)
 
 8. [X. Hu et al., Dexterous robot hand control system based on sEMG image, Control Theory & Applications, 2018](http://dx.doi.org/10.7641/CTA.2018.80448)
-
-## News
-
-* * *
-[_**A tactile robot--CCTV channel 10**_](http://tv.cctv.com/2018/12/04/VIDEy49TUpRGU18wDHMmcOWc181204.shtml)
-
-* * *
-[_**A number of cutting-edge medical research projects in Universities in Nanjing were docked with enterprises**_](./press/med_conf.pdf)
-
-* * *
-[_**Robots that sharing their feelings -- Nature Research**_](./press/nature.pdf)
-
-
-* * *
-[_**Myoelectric deep learning algorithm: Making machine version of "finger dance" possible**_](./press/exhibition.pdf)
-
-* * *
-[_**Teachers and students from UTD and WSU come to our institute of Robot Sensing and Control Technology for exchange**_](./press/campus.pdf)
-
-* * *
-[_**The science camp at Southeast University is coming**_](./press/education.pdf)
-
-* * *
-[_**Striving to "intelligently build" high-end robots in China in the new era,**_](http://news.cctv.com/2018/10/30/VIDE57kVHvd3DdNopJL1nSOn181030.shtml)
-
-* * *
-[_**2019 Jiangsu Celebrates The Theme of Teacher's Day,**_](https://www.sohu.com/a/339809243_387170)
-
-* * *
-[_**Southeast University held the opening ceremony of 2018 spring Doctoral students**_](./press/ceremony.pdf)
-
-
-
